@@ -1,0 +1,30 @@
+section {
+    display: flex;
+    flex-direction: column;
+    margin: 40px 40px 15px 40px;
+}
+
+#name {
+    margin: 15px 28px;
+}
+
+#age {
+    margin: 15px 43px;
+}
+
+button {
+    margin: 0 120px 40px;
+    font-size: 15px;
+    background: rgba(48, 121, 34, 0.685);
+    color: black;
+}
+
+input{
+    color: rgba(13, 46, 6, 0.945);
+}
+
+.registr {
+    border: 1px solid black;
+    width: 380px;
+    margin: 40px;
+}
